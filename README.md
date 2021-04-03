@@ -14,3 +14,7 @@ Finalidade: desenvolver um CLONE da pagina do NETFLIX.
 - Desafios extras
     - Dar vida aos botões em tela
     - Fazer uma nova roupagem, empregando seu estlo
+
+    instrutor: https//github.com/felipeAguiarCode/netflix-clone
+               www.linkedin.com/in/felipe-aguiar-047
+               
